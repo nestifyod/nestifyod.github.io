@@ -12604,3 +12604,7 @@ hr {
   position: sticky;
   top: 5.5rem;
 }
+element.style {
+  min-height: 150px;
+  height: 150px;
+}
