@@ -4,7 +4,9 @@
   position: sticky;
   top: 5.5rem;
 }
-element.style {
-  min-height: 150px;
-  height: 150px;
+/*平板*/
+@media screen and (min-width: 600px) and (max-width: 960px) {
+  .section {
+    padding: 6rem 1.5rem;
+  }
 }
