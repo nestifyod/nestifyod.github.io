@@ -12613,3 +12613,10 @@ hr {
     padding: 6rem 1.5rem;
   }
 }
+body,
+button,
+input,
+select,
+textarea {
+  font-family: consolas !important;
+}
