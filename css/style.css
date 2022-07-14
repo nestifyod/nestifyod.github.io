@@ -12267,7 +12267,11 @@ textarea {
   font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 body {
-  background: url("/img/background.png");
+  background: url("https://cdn.fygod.xyz/uploads/2022/07/14/1/1657787510/9XCXse8V_wallhaven-9ml298-compressed.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .img-x {
   position: relative;
@@ -12604,7 +12608,7 @@ hr {
   position: sticky;
   top: 5.5rem;
 }
-@media screen and (min-width: 600px) and (max-width: 960px) {
+@media screen and (min-width: 600px) and (max-width: 1052px) {
   .section {
     padding: 6rem 1.5rem;
   }
