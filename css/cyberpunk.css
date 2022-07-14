@@ -12609,7 +12609,7 @@ hr {
   position: sticky;
   top: 5.5rem;
 }
-@media screen and (min-width: 600px) and (max-width: 1086px) {
+@media screen and (min-width: 600px) and (max-width: 1087px) {
   .section {
     padding: 6rem 1.5rem;
   }
