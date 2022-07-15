@@ -12621,6 +12621,16 @@ select,
 textarea {
   font-family: consolas !important;
 }
+.night .level .level-item.is-marginless:hover {
+  background-color: #151313;
+  color: #3273dc;
+  border-radius: 5px;
+}
+code {
+  color: #00e3aa;
+  font-size: 0.875em;
+  font-weight: normal;
+}
 body {
   counter-reset: card;
 }
