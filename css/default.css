@@ -12626,7 +12626,7 @@ textarea {
   border-radius: 5px;
 }
 code {
-  color: #00e3aa;
+  color: #00e3aa !important;
   font-size: 0.875em;
   font-weight: normal;
 }
