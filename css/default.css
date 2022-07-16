@@ -11363,6 +11363,10 @@ figure.highlight .section {
 .widget .tags .tag:last-child {
   color: $white-invert;
 }
+#toc {
+  max-height: calc(100vh - 22px);
+  overflow-y: scroll;
+}
 .donate {
   position: relative;
 }
@@ -12267,7 +12271,7 @@ textarea {
   font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 body {
-  background: url("https://cdn.fygod.xyz/uploads/2022/07/14/1/1657787510/9XCXse8V_wallhaven-9ml298-compressed.jpg");
+  background: url("https://cdn.fygod.xyz/uploads/2022/07/14/1/1657809584/m9gJIX3b_wallhaven-x8zedo-compressed.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -12601,12 +12605,6 @@ hr {
 .hljs-comment,
 .hljs-quote {
   color: #42bb35 !important;
-}
-#toc {
-  align-self: flex-start;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 5.5rem;
 }
 @media screen and (min-width: 600px) and (max-width: 1087px) {
   .section {
