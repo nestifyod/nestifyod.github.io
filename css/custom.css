@@ -34,12 +34,12 @@ code {
   background: transparent !important;
 }
 /* 宽度小于530px隐藏信封 */
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 1228px) {
   #computer {
     display: none !important;
   }
 }
-@media screen and (min-width: 530px) {
+@media screen and (min-width: 1228px) {
   #mobile {
     display: none !important;
   }

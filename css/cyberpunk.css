@@ -12638,12 +12638,12 @@ code {
 #page-header {
   background: transparent !important;
 }
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 1228px) {
   #computer {
     display: none !important;
   }
 }
-@media screen and (min-width: 530px) {
+@media screen and (min-width: 1228px) {
   #mobile {
     display: none !important;
   }
